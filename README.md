@@ -13,5 +13,6 @@ mir24.tv 2016 website development
 [JIRA](https://mir24tv.atlassian.net/secure/RapidBoard.jspa?projectKey=MIR24) as an issue tracker
 
 ####Basic concepts and development approaches
+[MVC](https://docs.phalconphp.com/en/latest/reference/mvc.html) as a primary pattern  
 [Agile](http://agilemanifesto.org/iso/en/) as a development workflow framework  
-[TDD](https://en.wikipedia.org/wiki/Test-driven_development) for public API
+[TDD](https://en.wikipedia.org/wiki/Test-driven_development) all over the public API
