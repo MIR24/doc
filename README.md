@@ -10,7 +10,9 @@ mir24.tv 2016 website development
 [npm](https://www.npmjs.com/) as a JS package manager  
 [Codeception](http://codeception.com/) as a testing framework  
 [git](https://git-scm.com/) as a VCS  
-[JIRA](https://mir24tv.atlassian.net/secure/RapidBoard.jspa?projectKey=MIR24) as an issue tracker
+[JIRA](https://mir24tv.atlassian.net/secure/RapidBoard.jspa?projectKey=MIR24) as an issue tracker  
+[PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) as coding standarts guard  
+[travis-ci](https://travis-ci.org/) as build and testing service
 
 ####Basic concepts and development approaches
 [MVC](https://docs.phalconphp.com/en/latest/reference/mvc.html) as a primary pattern  
