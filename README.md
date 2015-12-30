@@ -3,7 +3,7 @@ mir24.tv 2016 website development
 ##Manifest
 ####Third party libraries used  
 [PhalconPHP](https://phalconphp.com) as a server side framework  
-[Phalcon REST](https://phalconist.com/redound/phalcon-rest) as a server core
+[Phalcon REST](https://phalconist.com/redound/phalcon-rest) as a server core  
 [jQuery](https://jquery.com/) as a client side framework  
 
 ####Tools used 
