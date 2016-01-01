@@ -14,7 +14,8 @@ mir24.tv 2016 website development
 [JIRA](https://mir24tv.atlassian.net/secure/RapidBoard.jspa?projectKey=MIR24) as an issue tracker  
 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) as coding standarts guard  
 [travis-ci](https://travis-ci.org/) as build and testing service  
-[swagger](http://swagger.io/) as API planner
+[Swagger](http://swagger.io/) as REST API planner
+[Zephir](http://zephir-lang.com/) for performance enhancement
 
 ####Basic concepts
 [MVC](https://docs.phalconphp.com/en/latest/reference/mvc.html) as a primary pattern  
