@@ -18,7 +18,7 @@ mir24.tv 2016 website development
 [travis-ci](https://travis-ci.org/) as build and testing service  
 [Swagger](http://swagger.io/) as REST API planner  
 [Zephir](http://zephir-lang.com/) for performance enhancement  
-[MySQL Workbench](https://www.mysql.com/products/workbench/) as DB planner and basic editor
+[MySQL Workbench](https://www.mysql.com/products/workbench/) as DB planner and basic DB editor
 
 ####Basic concepts
 [MVC](https://docs.phalconphp.com/en/latest/reference/mvc.html) as a primary pattern  
