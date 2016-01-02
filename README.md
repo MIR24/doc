@@ -5,7 +5,8 @@ mir24.tv 2016 website development
 [PhalconPHP](https://phalconphp.com) as a server side framework  
 [Phalcon REST](https://phalconist.com/redound/phalcon-rest) as a RESTful server core  
 [jQuery](https://jquery.com/) as a client side framework  
-[HybridAuth](http://hybridauth.sourceforge.net/) as social sign on library
+[HybridAuth](http://hybridauth.sourceforge.net/) as social sign on library  
+[Monolog](https://github.com/Seldaek/monolog) as logger  
 
 ####Tools used 
 [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) as a server-side environment  
