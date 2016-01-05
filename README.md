@@ -14,6 +14,7 @@ mir24.tv 2016 website development
 [Composer](https://getcomposer.org/) as a PHP dependencies manager  
 [npm](https://www.npmjs.com/) as a JS package manager  
 [Codeception](http://codeception.com/) as a testing framework  
+[Logstash](https://github.com/elastic/logstash) as log manager  
 [git](https://git-scm.com/) as a VCS  
 [JIRA](https://mir24tv.atlassian.net/secure/RapidBoard.jspa?projectKey=MIR24) as an issue tracker  
 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) as coding standarts guard  
