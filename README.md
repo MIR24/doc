@@ -1,6 +1,3 @@
-mir24.tv 2016 website development
-
-##Manifest
 ####Third party libraries used  
 [PhalconPHP](https://phalconphp.com) as a server side framework  
 [Phalcon REST](https://phalconist.com/redound/phalcon-rest) as a RESTful server core  
