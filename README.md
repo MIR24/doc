@@ -1,9 +1,8 @@
 ####Third party libraries used  
 [Laravel](https://laravel.com/) as a server side framework  
-[Phalcon REST](https://phalconist.com/redound/phalcon-rest) as a RESTful server core  
-[jQuery](https://jquery.com/) as a client side framework  
-[HybridAuth](http://hybridauth.sourceforge.net/) as social sign on library  
-[Monolog](https://github.com/Seldaek/monolog) as logger  
+[Lumen](https://lumen.laravel.com/) as a RESTful server core  
+[jQuery](https://jquery.com/) as a frontend client side framework  
+[React](https://facebook.github.io/react/) as a backend client side framework
 
 ####Tools used 
 LAPP as a server-side environment  
@@ -11,13 +10,11 @@ LAPP as a server-side environment
 [Composer](https://getcomposer.org/) as a PHP dependencies manager  
 [npm](https://www.npmjs.com/) as a JS package manager  
 [Codeception](http://codeception.com/) as a testing framework  
-[Logstash](https://github.com/elastic/logstash) as log manager  
 [git](https://git-scm.com/) as a VCS  
 [JIRA](https://mir24tv.atlassian.net/secure/RapidBoard.jspa?projectKey=MIR24) as an issue tracker  
 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) as coding standarts guard  
 [travis-ci](https://travis-ci.org/) as build and testing service  
-[Swagger](http://swagger.io/) as REST API planner  
-[Zephir](http://zephir-lang.com/) for performance enhancement  
+[Apiary](https://apiary.io/) as REST API planner  
 [Valentina Studio](https://www.valentina-db.com/en/download-valentina-studio) as DB planner and basic DB editor
 
 ####Basic concepts
