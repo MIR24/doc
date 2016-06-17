@@ -6,7 +6,7 @@
 [Monolog](https://github.com/Seldaek/monolog) as logger  
 
 ####Tools used 
-[LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) as a server-side environment  
+[LAMP](https://en.wikipedia.org/wiki/LAPP_(software_bundle)) as a server-side environment  
 [nginx](http://nginx.org/) as Apache's front  
 [Composer](https://getcomposer.org/) as a PHP dependencies manager  
 [npm](https://www.npmjs.com/) as a JS package manager  
