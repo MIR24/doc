@@ -10,7 +10,7 @@
 [Apache](https://httpd.apache.org/) as webserver  
 [nginx](http://nginx.org/) as Apache's front  
 [PHP](http://php.net/) as scripting language
-[PostgresSQL](https://www.postgresql.org/) as main database storage
+[PostgresSQL](https://www.postgresql.org/) as main database storage  
 [Composer](https://getcomposer.org/) as a PHP dependencies manager  
 [npm](https://www.npmjs.com/) as a JS package manager  
 [Codeception](http://codeception.com/) as a testing framework  
