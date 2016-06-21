@@ -6,7 +6,7 @@
 [AlloyEditor](http://alloyeditor.com/) as WYSIWYG editor
 
 ####Tools used 
-[Ubuntu](http://www.ubuntu.com/)  as OS
+[Ubuntu](http://www.ubuntu.com/)  as OS  
 [Apache](https://httpd.apache.org/) as webserver  
 [nginx](http://nginx.org/) as Apache's front  
 [PHP](http://php.net/) as scripting language  
