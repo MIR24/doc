@@ -3,6 +3,7 @@
 [Lumen](https://lumen.laravel.com/) as a RESTful server core  
 [jQuery](https://jquery.com/) as a frontend client side framework  
 [React](https://facebook.github.io/react/) as a backend client side framework
+[AlloyEditor](http://alloyeditor.com/) as WYSIWYG editor
 
 ####Tools used 
 LAPP as a server-side environment  
