@@ -25,7 +25,7 @@
 [MVC](https://docs.phalconphp.com/en/latest/reference/mvc.html) as a primary pattern  
 [Agile](http://agilemanifesto.org/iso/en/) as a development workflow framework  
 [TDD](https://en.wikipedia.org/wiki/Test-driven_development) all over the public API  
-[Material design](https://www.google.com/design/spec/material-design/introduction.html) as UI guidance
+[Material design](https://www.google.com/design/spec/material-design/introduction.html) as backend UI guidance
 
 #### Manuals
 [Wiki](https://github.com/MIR24/doc/wiki)
