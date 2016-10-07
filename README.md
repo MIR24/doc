@@ -3,7 +3,7 @@
 [Lumen](https://lumen.laravel.com/) as a RESTful server core  
 [jQuery](https://jquery.com/) as a frontend client side framework  
 [React](https://facebook.github.io/react/) as a backend client side framework  
-[AlloyEditor](http://alloyeditor.com/) as WYSIWYG editor
+[Alloy](http://alloyeditor.com/) as WYSIWYG editor
 
 ####Tools used 
 [Ubuntu](http://www.ubuntu.com/)  as OS  
