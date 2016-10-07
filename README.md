@@ -20,7 +20,7 @@
 [travis-ci](https://travis-ci.org/) as build and testing service  
 [Apiary](https://apiary.io/) as REST API planner  
 [docker](https://www.docker.com/) as chief-containerizer  
-[docker-hub](hub.docker.com) as docker-images storage  
+[docker-hub](https://hub.docker.com) as docker-images storage  
 [Valentina Studio](https://www.valentina-db.com/en/download-valentina-studio) as DB planner and basic DB editor
 
 ####Basic concepts
